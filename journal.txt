@@ -1,0 +1,5 @@
+Title: A paper on ocean tidal waves
+Author: Aimin
+Introduction: Details on tidal waves
+Conclusion: sample data
+References: Wiley 1998 Journal Paper
